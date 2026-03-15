@@ -16,7 +16,7 @@ This project performs a deep-dive analysis into the Netflix library to identify 
 Focuses on the rapid growth of the library and high-level quality benchmarks.
 > **Key Insight:** While volume has increased by 300% since 2015, maintaining a consistent "Prestige Rate" remains a challenge.
 
-![Executive Overview]()
+![Executive Overview](https://github.com/srvb14/Netflix-Content-Analytics-SQL-Power-BI/blob/f5691d28dfd7805ea806fa1ad6e3c45a404f104f/Executive_summary.png)
 
 
 ---
@@ -25,7 +25,7 @@ Focuses on the rapid growth of the library and high-level quality benchmarks.
 Analyzes the efficiency of content formats.
 > **Key Insight:** TV Shows yield a 19% "Hit Rate" compared to 4% for Movies, suggesting higher subscriber retention value in episodic content.
 
-![Format Analysis](Add your Page 2 Screenshot link here)
+![Format Analysis](https://github.com/srvb14/Netflix-Content-Analytics-SQL-Power-BI/blob/f5691d28dfd7805ea806fa1ad6e3c45a404f104f/Moviews%20vs%20TV%20shows.png)
 
 ---
 
@@ -33,7 +33,7 @@ Analyzes the efficiency of content formats.
 Identifies market gaps and "undiscovered" high-quality content.
 > **Key Insight:** Identified 320+ "Hidden Gems"—titles with IMDb scores > 8.0 but low mainstream discovery—representing a low-cost ROI opportunity.
 
-![Audience Strategy](Add your Page 3 Screenshot link here)
+![Audience Strategy](https://github.com/srvb14/Netflix-Content-Analytics-SQL-Power-BI/blob/f5691d28dfd7805ea806fa1ad6e3c45a404f104f/Market%20Gap.png)
 
 ---
 
@@ -41,7 +41,7 @@ Identifies market gaps and "undiscovered" high-quality content.
 Tracks the shift from licensed classics to high-volume originals.
 > **Key Insight:** Historical data shows a quality-volume trade-off as Netflix transitioned into a global production powerhouse.
 
-![Historical Trends](Add your Page 4 Screenshot link here)
+![Historical Trends](https://github.com/srvb14/Netflix-Content-Analytics-SQL-Power-BI/blob/f5691d28dfd7805ea806fa1ad6e3c45a404f104f/Hist%20evolution.png)
 
 ---
 
