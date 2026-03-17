@@ -16,7 +16,7 @@ This project performs a deep-dive analysis into the Netflix library to identify 
 Focuses on the rapid growth of the library and high-level quality benchmarks.
 > **Key Insight:** While volume has increased by 300% since 2015, maintaining a consistent "Prestige Rate" remains a challenge.
 
-![Executive Overview](https://github.com/srvb14/Netflix_SQL_PBI/blob/538db37e8eb7b701f1dc99a0757f96589ced2482/Screenshot%202026-03-17%20182901.png)
+![Executive Overview](https://github.com/srvb14/Netflix_SQL_PBI/blob/4eb881f1d73fc861eb2acbf154294d76d52d075d/Executive%20Summary.png)
 
 
 ---
